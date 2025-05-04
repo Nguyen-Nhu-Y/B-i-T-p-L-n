@@ -9,8 +9,3 @@ Tự động truy cập website [csgt.vn](https://www.csgt.vn/tra-cuu-phuong-tie
 - Chrome WebDriver
 
 # Cài đặt
-
-# 1. Clone repository:
-```bash
-git clone https://github.com/tenban/ktra-phatnguoi.git
-cd ktra-phatnguoi
